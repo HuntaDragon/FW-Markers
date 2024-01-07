@@ -1,7 +1,7 @@
 const freightWatch = document.querySelector(".freightWatch");
 const body = document.querySelector(".body");
 
-//сласс створеня вантажа
+//Kласс створеня вантажа
 class Load {
   constructor(freightBill, billOfLanding, dispatchNotes, type) {
     this.freightBill = freightBill;
